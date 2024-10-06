@@ -1,1 +1,2 @@
-console.log("Hi,awesome!")
+consome.log("Hi,awesome!")
+console.log("slight change")
